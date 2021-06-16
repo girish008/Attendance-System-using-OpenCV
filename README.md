@@ -8,13 +8,17 @@ making a system which can recognize face and match with its own database. It wil
 ## Features 📋
 
 Check Camera
+
 Capture Faces
+
 Train Faces
+
 Recognize Faces & Attendance
+
 Automatic Email
 
 
-##Tech Used 💻
+## Tech Used 💻
 
 Build With -
 
@@ -24,27 +28,46 @@ Module Used -
 All The Module are Latest Version.
 
 OpenCV Contrib 4.0.1
+
 Pillow
+
 Numpy
+
 Pandas
+
 Shutil
+
 CSV
+
 yagmail
-Face Recognition Algorithms -
+
+## Face Recognition Algorithms -
 
 Haar Cascade
+
 LBPH (Local Binary Pattern Histogram)
-Software Used -
+
+## Software Used -
 
 Pycharm 2019.2
+
 VS CODE
+
 Git
 
-###If you want to use it just follow the steps below.
+
+### If you want to use it just follow the steps below.
+
 
 First download or clone the project
+
 Import the project to your favourit IDE
+
 Create an python enviroment
+
 Install all the packages
+
 Change the mail information
+
 Run the project using the command line or your IDE Run Button
+
